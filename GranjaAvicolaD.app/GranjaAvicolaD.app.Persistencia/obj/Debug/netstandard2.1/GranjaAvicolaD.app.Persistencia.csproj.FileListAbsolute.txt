@@ -1,0 +1,12 @@
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.csprojAssemblyReference.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.AssemblyInfoInputs.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.AssemblyInfo.cs
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.csproj.CoreCompileInputs.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.deps.json
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.pdb
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.pdb
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.csproj.CopyComplete
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Persistencia\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Persistencia.pdb

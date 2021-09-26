@@ -1,0 +1,9 @@
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.deps.json
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.pdb
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.csprojAssemblyReference.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.AssemblyInfoInputs.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.AssemblyInfo.cs
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.csproj.CoreCompileInputs.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.pdb

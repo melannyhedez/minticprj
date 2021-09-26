@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj": {}
+  },
+  "projects": {
+    "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj",
+        "projectName": "GranjaAvicolaD.app.Dominio",
+        "projectPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj",
+        "projectName": "GranjaAvicolaD.app.Persistencia",
+        "projectPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {
+                "projectPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
