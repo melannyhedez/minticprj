@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Granja Avicola grupo D</title>
+    <link rel="stylesheet" href="../../lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../../lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="../../css/dashboard.css" />
+</head>
+
+<body>
+    <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
+        <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Granja Avicola Grupo D</a>
+        <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
+        <ul class="navbar-nav px-3">
+            <li class="nav-item text-nowrap dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Username</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Perfil</a>
+                    <a class="dropdown-item" href="#">Configuración</a>
+                    <a class="dropdown-item" href="#">Salir</a>
+                </div>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+                <div class="sidebar-sticky">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" href="../index.html">
+                                <span data-feather="home"></span>
+                                Dashboard
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="index.html">
+                                <span data-feather="feather"></span>
+                                Galpones <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <span data-feather="calendar"></span>
+                                Registros
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../usuarios/">
+                                <span data-feather="users"></span>
+                                Usuarios
+                            </a>
+                        </li>
+                    </ul>
+
+                    <h6
+                        class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+                        <span>Configuración</span>
+                        <a class="d-flex align-items-center text-muted" href="#">
+                            <span data-feather="plus-circle"></span>
+                        </a>
+                    </h6>
+                    <ul class="nav flex-column mb-2">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <span data-feather="settings"></span>
+                                Cambio de contraseña
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <span data-feather="settings"></span>
+                                Reportes
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <span data-feather="settings"></span>
+                                Tema
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+                <div
+                    class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
+                    <h1 class="h2">Dashboard</h1>
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <div class="btn-group mr-2">
+                            <button class="btn btn-sm btn-outline-secondary">Share</button>
+                            <button class="btn btn-sm btn-outline-secondary">Export</button>
+                        </div>
+                        <button class="btn btn-sm btn-outline-secondary dropdown-toggle">
+                            <span data-feather="calendar"></span>
+                            This week
+                        </button>
+                    </div>
+                </div>
+
+                <section class="container-fluid">
+                    <div class="row py-4">
+                        <div class="col">
+                            <h3 class="title">Datos del galpon 1</h3>
+                        </div>
+                        <div class="col text-right">ID: 1</div>
+                    </div>
+                    <p class="py-3">
+                        Ubicación: 10000.0 , 10000.1 <a href="#" class="text-xs">Ver en el mapa</a>
+                    </p>
+                    <div class="row py-3">
+                        <p class="col">Numero de animales: 1000</p>
+                        <p class="col">Fecha Ingreso: 19/12/2020</p>
+                        <p class="col">Fecha Salida: 28/01/2021</p>
+                    </div>
+                    <h3 class="py-3">
+                        Personal a cargo
+                    </h3>
+
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Nombre</th>
+                                <th>Correo</th>
+                                <th>Teléfono</th>
+                                <th>Rol</th>
+                                <th>Opciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1000000000</td>
+                                <td>John Doe</td>
+                                <td>john@doe.com</td>
+                                <td>3000000000</td>
+                                <td>Veterinario</td>
+                                <td>
+                                    <a href="#">Consultar</a>
+                                    <a href="#">Editar</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>1000000001</td>
+                                <td>Juanito Perez</td>
+                                <td>juanito@perez.com</td>
+                                <td>3000000001</td>
+                                <td>Operario</td>
+                                <td>
+                                    <a href="#">Consultar</a>
+                                    <a href="#">Editar</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+                <div class="container float-right py-4">
+                    <button class="btn btn-outline-secondary float-right">Descargar información</button>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="../../lib/jquery/dist/jquery.min.js"></script>
+    <script src="../../lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../../js/site.js" asp-append-version="true"></script>
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+        feather.replace()
+    </script>
+</body>
+
+</html>
