@@ -1,8 +1,8 @@
 namespace GranjaAvicolaD.app.Dominio
 {
-     /// <summary>Class <c>Usuario</c>
-     /// Modela una Persona en general en el sistema 
-     /// </summary>   
+    /// <summary>Class <c>Usuario</c>
+    /// Modela una Persona en general en el sistema 
+    /// </summary>   
     public class Usuario
     {
         // Identificador único de cada persona
@@ -11,7 +11,7 @@ namespace GranjaAvicolaD.app.Dominio
         public string Nombre { get; set; }
         public string Correo { get; set; }
         public string Telefono { get; set; }
-
+        public Roles Rol { get; set; }
     }
 }
 

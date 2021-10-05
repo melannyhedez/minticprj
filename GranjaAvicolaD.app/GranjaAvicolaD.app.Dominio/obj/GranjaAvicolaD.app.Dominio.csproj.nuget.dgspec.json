@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {}
+    "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {}
   },
   "projects": {
-    "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {
+    "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj",
+        "projectUniqueName": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj",
         "projectName": "GranjaAvicolaD.app.Dominio",
-        "projectPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj",
-        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
-        "outputPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\obj\\",
+        "projectPath": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Melannny\\.nuget\\packages\\",
+        "outputPath": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Melannny\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

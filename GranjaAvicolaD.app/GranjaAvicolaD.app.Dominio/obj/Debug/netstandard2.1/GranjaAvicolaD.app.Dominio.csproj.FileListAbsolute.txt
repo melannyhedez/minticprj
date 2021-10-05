@@ -7,3 +7,13 @@ E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\Granja
 E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.csproj.CoreCompileInputs.cache
 E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.dll
 E:\Downloads\mision tic\desarrollo de software ciclo 3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.pdb
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.deps.json
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.dll
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.pdb
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.csproj.AssemblyReference.cache
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.AssemblyInfoInputs.cache
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.AssemblyInfo.cs
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.csproj.CoreCompileInputs.cache
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.dll
+C:\Datos\Melanny\MinTIC\Proyecto\Repositorio\minticprj\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\netstandard2.1\GranjaAvicolaD.app.Dominio.pdb

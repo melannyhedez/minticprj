@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guill\\.nuget\\packages\\": {}
+    "C:\\Users\\Melannny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj",
+      "projectUniqueName": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj",
       "projectName": "GranjaAvicolaD.app.Persistencia",
-      "projectPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
-      "outputPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\obj\\",
+      "projectPath": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\GranjaAvicolaD.app.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Melannny\\.nuget\\packages\\",
+      "outputPath": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Melannny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7285,9 +7285,10 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {
-              "projectPath": "E:\\Downloads\\mision tic\\desarrollo de software ciclo 3\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj"
+            "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj": {
+              "projectPath": "C:\\Datos\\Melanny\\MinTIC\\Proyecto\\Repositorio\\minticprj\\GranjaAvicolaD.app\\GranjaAvicolaD.app.Dominio\\GranjaAvicolaD.app.Dominio.csproj"
             }
           }
         }
@@ -7300,6 +7301,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -7337,7 +7339,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
